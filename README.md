@@ -11,7 +11,7 @@ A simple PowerShell GUI tool to identify and disable unnecessary Windows service
 
 ## How to Run
 
-Run the following commands in PowerShell (Administrator recommended):
+Run the following commands in PowerShell (Administrator Privileges Required):
 
 ```powershell
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
